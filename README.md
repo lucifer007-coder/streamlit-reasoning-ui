@@ -1,7 +1,7 @@
 # Streamlit Reasoning Visualizer
 
-[![PyPI downloads](https://img.shields.io/pypi/dm/streamlit-reasoning-visualizer.svg)](https://pypi.org/project/streamlit-reasoning-visualizer/0.1.0)
-
+[![PyPI version](https://img.shields.io/pypi/v/streamlit-reasoning-visualizer.svg)](https://pypi.org/project/streamlit-reasoning-visualizer/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Component-FF4B4B?logo=streamlit)](https://streamlit.io/)
 
 A beautiful, interactive Streamlit component for visualizing LLM reasoning processes with collapsible thought sections and rich markdown/LaTeX rendering.
@@ -136,7 +136,7 @@ pytest tests/ -v
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -144,5 +144,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Animations powered by [Framer Motion](https://www.framer.com/motion/)
 - Math rendering by [KaTeX](https://katex.org/)
 - Icons from [Lucide React](https://lucide.dev/)
-
-
